@@ -14,11 +14,18 @@ The dataset is obtained from
 Mahindru, Arvind (2020), “Android permissions dataset, Android Malware and benign Application Data set (consist of permissions and API calls)”, Mendeley Data, V3, doi: 10.17632/b4mxg7ydb7.3
 
 ## Execution
-****Additional research needs to be done hence kept the code encrypted in GANDroid.zip
-The dataset after preprocessing is made available 
-The archive.zip consists of 2 csv files for each of the malware and benign binary encoded datasets.
-The Data preprocessing code is also made available which was implemeted initially to retrieve instances and features from the raw dataset. 
-The execution requires Tensorflow, Keras and Scikit Learn dependencies.
-Each of the malware and benign dataset paths should be added to the python code.
-The Code already includes a set of optimal paramaters. 
+**** Additional research needs to be done hence kept the code encrypted in GANDroid.zip
+
+**** The dataset after preprocessing is made available 
+
+**** The archive.zip consists of 2 csv files for each of the malware and benign binary encoded datasets.
+
+**** The Data preprocessing code is also made available which was implemeted initially to retrieve instances and features from the raw dataset. 
+
+**** The execution requires Tensorflow, Keras and Scikit Learn dependencies.
+
+**** Each of the malware and benign dataset paths should be added to the python code.
+
+**** The Code already includes a set of optimal paramaters. 
+
 
