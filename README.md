@@ -14,7 +14,6 @@ The dataset is obtained from
 Mahindru, Arvind (2020), “Android permissions dataset, Android Malware and benign Application Data set (consist of permissions and API calls)”, Mendeley Data, V3, doi: 10.17632/b4mxg7ydb7.3
 
 ## Execution
-* Additional research needs to be done hence kept the code encrypted in GANDroid.zip
 
 * The dataset after preprocessing is made available 
 
